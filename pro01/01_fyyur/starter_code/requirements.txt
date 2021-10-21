@@ -1,6 +1,6 @@
 alembic==1.4.2
 appdirs==1.4.4
-Babel==2.8.0
+Babel==2.9.1
 click==7.1.2
 distlib==0.3.0
 filelock==3.0.12
